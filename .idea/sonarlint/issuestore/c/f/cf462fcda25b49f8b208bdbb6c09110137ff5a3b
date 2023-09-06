@@ -1,0 +1,6 @@
+
+R
+java:S1854"<Remove this useless assignment to local variable "conexion".(¢á¢Ô
+C
+java:S1481"-Remove this unused "conexion" local variable.(¢á¢Ô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ä‘¸àúÿÿÿÿ

@@ -1,0 +1,33 @@
+
+w
+java:S1192¶"YDefine a constant instead of duplicating this literal "Por favor, elije un item" 4 times.(ú‡øš8Ûš¡œ¦1
+K
+java:S1604ƒ"(Make this anonymous inner class a lambda(ú†ùêøÿÿÿÿ8Üš¡œ¦1
+K
+java:S1604‹"(Make this anonymous inner class a lambda(¢Ì Ûÿÿÿÿÿ8Üš¡œ¦1
+K
+java:S1604‘"(Make this anonymous inner class a lambda(Ñ¤Íãûÿÿÿÿ8Üš¡œ¦1
+K
+java:S1604™"(Make this anonymous inner class a lambda(“ü†Ïûÿÿÿÿ8İš¡œ¦1
+K
+java:S1604¡"(Make this anonymous inner class a lambda(®§…ûÿÿÿÿÿ8İš¡œ¦1
+j
+java:S1659"MDeclare "labelDescripcion" and all following declarations on a separate line.(®²¼»8›¡œ¦1
+j
+java:S1659"MDeclare "textoDescripcion" and all following declarations on a separate line.(‡şĞú8‚›¡œ¦1
+h
+java:S1659"KDeclare "botonModificar" and all following declarations on a separate line.(òûíÂ8‚›¡œ¦1
+y
+java:S1450"\Remove the "labelCantidad" field and declare it as a local variable in the relevant methods.(®²¼»8‚›¡œ¦1
+z
+java:S1450"]Remove the "labelCategoria" field and declare it as a local variable in the relevant methods.(®²¼»8ƒ›¡œ¦1
+|
+java:S1450"_Remove the "labelDescripcion" field and declare it as a local variable in the relevant methods.(®²¼»8ƒ›¡œ¦1
+w
+java:S1450"ZRemove the "labelNombre" field and declare it as a local variable in the relevant methods.(®²¼»8ƒ›¡œ¦1
+R
+java:S1948#"5Make "categoriaController" transient or serializable.(øĞ±˜8…›¡œ¦1
+O
+java:S1135h"2Complete the task associated to this TODO comment.(…ïœ†8•›¡œ¦1
+H
+java:S2275Ã"*An 'int' is expected rather than a Object.(Ş˜ø8öË¡œ¦1
